@@ -1,4 +1,7 @@
-### 🛠 &nbsp;Tech Stack
+<h1 align="center">Hi, I'm Ömer Faruk Şahin</h1>
+<h3 align="center">A junior web developer and student.</h3>
+
+## Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Vue](https://img.shields.io/badge/-Vue-05122A?style=flat&logo=vue.js)&nbsp;
