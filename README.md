@@ -1,12 +1,12 @@
-<h1 align="center">Hi, I'm Ömer Faruk Şahin</h1>
+<h1 align="center">Hi 👋, I'm Ömer Faruk Şahin</h1>
 <h3 align="center">A junior web developer and student.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ofsahof&label=Profile%20views&color=0e75b6&style=flat" alt="ofsahof" /> </p>
 
-- I’m currently working on **eeWebSite** and **eeCommercial**
+- 🔭 I’m currently working on **eeWebSite** and **eeCommercial**
 
-- I’m currently learning **PHP**
+- 🌱 I’m currently learning **PHP**
 
-- How to reach me **omer_faruk@eebrainteam.com**
+- 📫 How to reach me **omer_faruk@eebrainteam.com**
 
 ## Tech Stack
 <h3 align="left">Languages and Tools:</h3>
