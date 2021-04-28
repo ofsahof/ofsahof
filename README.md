@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **PHP**
 
-- 📫 How to reach me **omer_faruk@eebrainteam.com**
+- 📫 How to reach me **ofsahof@gmail.com**
 
 ## Tech Stack
 <h3 align="left">Languages and Tools:</h3>
