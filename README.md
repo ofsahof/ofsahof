@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **eeWebSite** and **eeCommercial**
 
-- 🌱 I’m not currently practising my web development skills.
+- 🌱 I’m currently practising my web development skills.
 
 - 📫 How to reach me **ofsahof@gmail.com**
 
