@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ömer Faruk Şahin</h1>
-<h3 align="center">A junior web developer and student.</h3>
+<h3 align="center">A software hobbiest and student.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ofsahof&label=Profile%20views&color=0e75b6&style=flat" alt="ofsahof" /> </p>
-
-- 🔭 I’m currently working on **eeWebSite** and **eeCommercial**
-
-- 🌱 I’m currently practising my web development skills.
 
 - 📫 How to reach me **ofsahof@gmail.com**
 
